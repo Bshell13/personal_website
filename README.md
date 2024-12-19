@@ -1,6 +1,6 @@
 # Simple Website Using Github Pages
 Make a simple HTML website and publish it using Github Pages.  
-View example: https://Bshell13.github.io/simple-website-template/
+View example: https://Bshell13.github.io/personal_website/
 
 ## Setup
 - Create a Github account (if you don't have one yet)
