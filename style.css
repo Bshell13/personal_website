@@ -1,14 +1,17 @@
 :root {
-  --main-color: rgba(21, 88, 21, 0.856);
+  --main-color: rgba(42, 182, 175, 0.774);
 }
 
-* {
-  background-color: rgba(94, 173, 209, 0.63);
+.bg-primary{
+  background-color: rgba(43, 104, 28, 0.63);
 }
 
-#header {
+.bg-secondary{
+  background-color: rgba(42, 182, 175, 0.774);
+}
+
+.text-center{
   text-align: center;
-  color: var(--main-color)
 }
 
 ul li {
