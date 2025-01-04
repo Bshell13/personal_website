@@ -2,6 +2,10 @@
   --main-color: rgba(42, 182, 175, 0.774);
 }
 
+body {
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
 .bg-primary{
   background-color: rgba(43, 104, 28, 0.63);
 }
@@ -16,4 +20,21 @@
 
 ul li {
   list-style-type: square;
+  list-style-position: inside;
+}
+
+.mb-0 {
+  margin-bottom: 0;
+}
+
+.mt-0 {
+  margin-top: 0;
+}
+
+.text-uppercase {
+  text-transform: uppercase;
+}
+
+section {
+  padding: 0;
 }
